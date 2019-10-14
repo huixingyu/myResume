@@ -22,7 +22,7 @@ h2 {font-size:46px; font-weight:normal;}
 .link:hover  {-webkit-transform:rotate(360deg);transform:rotate(360deg);}
 #link-github   {background:url(../img/github.png) no-repeat center; margin-left:76px;}
 #link-linkedin {background:url(../img/linkedin.png) no-repeat center; margin-left:76px;}
-#myPhoto       {height:270px; width:270px; display:inline-block; margin:0 0 0 78px;}
+#myPhoto       {height:327px; width:200px; display:inline-block; margin:0 0 0 165px;}
 #link-blog     {background:url(../img/blog.png) no-repeat center; margin-left:78px;}
 #link-email    {background:url(../img/email.png) no-repeat center; margin-left:76px;}
 #intro-text    {display:inline-block; margin:80px 0 0 130px; color:white;}
@@ -56,6 +56,7 @@ h2 {font-size:46px; font-weight:normal;}
 #block-workEXP .workbox .work-place {font-size:26px; font-weight:bold}
 #block-workEXP .workbox .work-position {font-size:20px;}
 #block-workEXP .workbox .work-do {margin-top:10px; font-size:16px;}
+#block-workEXP .workbox .target {margin-top:10px; font-size:32px;}
 
 /* block-prjEXP */
 #block-prjEXP {padding:50px 0 200px; width:100%; background-color:#129DE7; color:#FFFFFF;}
